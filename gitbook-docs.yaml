@@ -15,3 +15,16 @@ site:
           default: true
           content:
             directory: ./documentation
+    - type: section
+      key: section-2
+      title: Contexto del Reto
+      path: contexto-del-reto
+      children:
+        - type: space
+          key: space-2
+          title: Contexto del Reto
+          path: contexto-del-reto
+          default: true
+          draft: true
+          content:
+            directory: ./contexto-del-reto
