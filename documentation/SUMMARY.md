@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Water Monitoring System (WMS)](README.md)
