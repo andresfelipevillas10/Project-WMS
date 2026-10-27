@@ -41,3 +41,16 @@ site:
           draft: true
           content:
             directory: ./equipo-roles
+    - type: section
+      key: section-4
+      title: DIseño Solucion
+      path: diseno-solucion
+      children:
+        - type: space
+          key: space-4
+          title: DIseño Solucion
+          path: diseno-solucion
+          default: true
+          draft: true
+          content:
+            directory: ./diseno-solucion
