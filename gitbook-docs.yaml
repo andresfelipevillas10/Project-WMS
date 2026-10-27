@@ -106,3 +106,16 @@ site:
           draft: true
           content:
             directory: ./resultados-y-analisis
+    - type: section
+      key: section-9
+      title: COnclusiones y retos
+      path: conclusiones-y-retos
+      children:
+        - type: space
+          key: space-9
+          title: COnclusiones y retos
+          path: conclusiones-y-retos
+          default: true
+          draft: true
+          content:
+            directory: ./conclusiones-y-retos
