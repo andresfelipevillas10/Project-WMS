@@ -93,3 +93,16 @@ site:
           draft: true
           content:
             directory: ./configuracion-exeprimental
+    - type: section
+      key: section-8
+      title: Resultados y Analisis
+      path: resultados-y-analisis
+      children:
+        - type: space
+          key: space-8
+          title: Resultados y Analisis
+          path: resultados-y-analisis
+          default: true
+          draft: true
+          content:
+            directory: ./resultados-y-analisis
